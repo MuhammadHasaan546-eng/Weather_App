@@ -38,7 +38,6 @@ React, Tailwind CSS, Weather API, JavaScript (ES6+)
 This project helped me strengthen my skills in React hooks, API integration, state management, and responsive design using Tailwind CSS.
 
 #Responsive Weather App — Live Demo
-Check out the live version:https://weatherappcomin.netlify.app/
-🔗 https://weatherappcomin.netlify.app/
+Check out the live version:🔗 https://weatherappcomin.netlify.app/
 
 This is a responsive Weather App built using React and Tailwind CSS. It allows users to search for any city and get real-time weather information such as temperature, humidity, wind speed, and weather conditions. The UI is clean, modern, and fully responsive for all screen sizes.
